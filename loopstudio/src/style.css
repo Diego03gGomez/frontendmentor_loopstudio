@@ -327,7 +327,21 @@ footer{
   width: 100%;
 }
 
+.cont_header nav ul a{
+  transition: all 0.90s;  
+}
 
+.cont_header nav ul a:hover{
+  transition: all 0.90s;
+  border-color: white;
+  border-style: solid;
+  border-right: none;
+  border-left: none;
+  border-top: none;
+  border-width: 1px;
+
+ 
+}
 
 
 
